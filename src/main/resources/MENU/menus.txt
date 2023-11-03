@@ -1,0 +1,12 @@
+French fries,With chicken salt,7.00
+Hot dogs,2 mini sausages with mayo and tomato sauce,13.00
+Pancake,Hot pancake with honey,11.00
+Fish,Boiled fish with veggies,20.00
+Steak,Medium rare with smashed potato,15.00
+Waffle,Chocolate syrup on top,10.00
+Burrito,With chicken inside,7.00
+Coke,Diet Coke,9.00
+Chicken Soft Bone,Salt and pepper, 10 pieces,20.00
+Sandwiches,Bacon and cheese, 2 pieces,40.00
+Pizza,BBQ meat balls with sausages,50.00
+Beef Noodle,Spicy noodle with kimchi,50.00
