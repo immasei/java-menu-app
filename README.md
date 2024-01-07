@@ -1,4 +1,4 @@
-![image](https://github.com/immasei/javaswing-menu-app/assets/101374410/e7995084-2cf4-4df2-8c30-48ff44badd46)# javaswing-menu-app
+# javaswing-menu-app
 
 ## Overview
 
