@@ -64,6 +64,10 @@ gradle clean build run
   <img align='center' src='src/img/ord.gif' width='450'/>
 </p>
 
+<p align='center'>
+  <img align='center' src='src/img/order.png' width='450'/>
+</p>
+
 * **Order History**
 
   * Only Admin can access order history
