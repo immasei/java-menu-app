@@ -41,6 +41,14 @@ gradle clean build run
   * Only admin can log in using an account
   * After logged in, Admin can sign up for another Admin
   * General users will sign in as guests.
+ 
+<p align='center'>
+  <img align='center' src='src/img/login.gif' width='450'/>
+</p>
+
+<p align='center'>
+  <img align='center' src='src/img/signup.gif' width='450'/>
+</p>
 
 * **Menu Ordering**
 
@@ -51,12 +59,20 @@ gradle clean build run
   * Remove items from the cart
   * Selecting delivery or pickup options and confirming the order
   * General users are not required to log in
+ 
+<p align='center'>
+  <img align='center' src='src/img/ord.gif' width='450'/>
+</p>
 
 * **Order History**
 
   * Only Admin can access order history
   * View order date, items ordered and total amount
   * Search orders based on order number
+ 
+<p align='center'>
+  <img align='center' src='src/img/hist.gif' width='450'/>
+</p>
 
 * **Admin Dashboard**
 
@@ -65,5 +81,9 @@ gradle clean build run
   * Add new menu items (including a name, description and price for each item)
   * Update existing items (e.g. correcting prices or descriptions)
   * Remove outdated items from the menu
+ 
+<p align='center'>
+  <img align='center' src='src/img/admin.gif' width='450'/>
+</p>
 
 
