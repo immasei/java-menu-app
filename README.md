@@ -1,4 +1,4 @@
-# javaswing-menu-app
+# Menu Application
 
 ## Overview
 
